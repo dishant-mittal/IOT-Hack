@@ -7,7 +7,7 @@ Development of this project involves:</br>
 
 As an end result, the client can provide the device-id for a user and search for:</br>
     * The most similar users over complete fall and winter terms.</br>
-    * Days and users which depicted similar motion pattern as the queried user.</br>
+    * Most similar users over a particular day.</br>
 
 Dependencies: Python, Java, Scala, Apache Spark, Dygraphs
 
