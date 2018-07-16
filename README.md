@@ -21,4 +21,4 @@ from pyspark import SparkConf, SparkContext
 from pyspark.sql import SparkSession
 
 Instead of the above code we can import spark using this:
-import findspark #this can be installed directly using pip
+import findspark #this can be installed directly using  pip
